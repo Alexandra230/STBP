@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "node ./src/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cryptr": "^6.0.3"
+  }
+}
